@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\1111410025_徐菱曼031\1111410025_徐菱曼031\bin\Debug\1111410025_徐菱曼031.exe.config
+C:\Users\student\source\repos\1111410025_徐菱曼031\1111410025_徐菱曼031\bin\Debug\1111410025_徐菱曼031.exe
+C:\Users\student\source\repos\1111410025_徐菱曼031\1111410025_徐菱曼031\bin\Debug\1111410025_徐菱曼031.pdb
+C:\Users\student\source\repos\1111410025_徐菱曼031\1111410025_徐菱曼031\obj\Debug\1111410025_徐菱曼031.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\1111410025_徐菱曼031\1111410025_徐菱曼031\obj\Debug\1111410025_徐菱曼031.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\1111410025_徐菱曼031\1111410025_徐菱曼031\obj\Debug\1111410025_徐菱曼031.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\1111410025_徐菱曼031\1111410025_徐菱曼031\obj\Debug\1111410025_徐菱曼031.exe
+C:\Users\student\source\repos\1111410025_徐菱曼031\1111410025_徐菱曼031\obj\Debug\1111410025_徐菱曼031.pdb
